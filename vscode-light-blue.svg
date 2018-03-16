@@ -17,7 +17,7 @@
     </filter>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <circle cx="256" cy="260" r="250.5" fill="url(#vscode-light-blue-a)"/>
+    <circle cx="256" cy="256" r="224" fill="url(#vscode-light-blue-a)"/>
     <use fill="url(#vscode-light-blue-b)" xlink:href="#vscode-light-blue-c"/>
     <use fill="#000" filter="url(#vscode-light-blue-d)" xlink:href="#vscode-light-blue-c"/>
   </g>
